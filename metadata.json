@@ -1,0 +1,6 @@
+{
+  "name": "Bella Vexora - Luxury Cafe Experience",
+  "description": "A premium luxury mini website for Bella Vexora cafe, featuring an elegant, aesthetic, and futuristic vibe with premium UI/UX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
